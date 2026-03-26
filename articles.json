@@ -36,12 +36,13 @@
     {
       "id": 1773327277822,
       "title": "TRS / HEALTHSELECT",
-      "content": "Prefix is present as OOS may we process. Since this is a TEXAS claim in the state of Oklahoma it is an OOS policy for NSA.",
+      "content": "TRS/HEALTHSELECT showing as OOS may we process, TRS and HealthSelect are fully insured only in state of Texas. Example: Claim has TRS/HealthSelect Policy Number and the state is Oklahoma it is an OOS policy for NSA.",
       "visibility": [
         "articles"
       ],
       "createdAt": "Mar 12, 2026 09:54 AM",
-      "updatedAt": "Mar 12, 2026 09:54 AM"
+      "updatedAt": "3/26/2026, 3:42:07 PM",
+      "updatedBy": "Jasfer B."
     },
     {
       "id": 1773325130678,
