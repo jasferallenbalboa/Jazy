@@ -90,19 +90,13 @@
       ],
       "createdAt": "Mar 12, 2026 08:54 AM",
       "updatedAt": "3/23/2026, 8:22:26 AM"
-    },
-    {
-      "id": 1774533139344,
-      "title": "3213213",
-      "content": "1231",
-      "createdAt": "3/26/2026, 8:52:19 AM",
-      "createdBy": "Staff_User",
-      "updatedAt": "3/26/2026, 8:52:19 AM",
-      "updatedBy": "Staff_User",
-      "visibility": [
-        "articles"
-      ]
     }
   ],
-  "history": []
+  "history": [
+    {
+      "title": "3213213",
+      "user": "Staff_User",
+      "time": "3/26/2026, 8:52:32 AM"
+    }
+  ]
 }
