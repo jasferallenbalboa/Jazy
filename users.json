@@ -1,6 +1,12 @@
 {
-"users":[
-{"name": "Jasfer Balboa", "pass": "TE90R1ZBQ0FUSU90UExFQVNF" },
-{"name": "Staff", "pass": "SEVMTE9XT1JRMA==" }
-]
+  "users": [
+    {
+      "name": "Jasfer Balboa",
+      "pass": "TE9OR1ZBQ0FUSU9OUExFQVNF",
+    },
+    {
+      "name": "Staff",
+      "pass": "SEVMTE9XT1JMRA==",
+    }
+  ]
 }
