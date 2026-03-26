@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "id": 1774544447515,
-      "title": "awd",
-      "content": "awd",
-      "createdAt": "3/26/2026, 12:00:47 PM",
-      "createdBy": "Lyka O.",
-      "updatedAt": "3/26/2026, 12:00:47 PM",
-      "updatedBy": "Lyka O.",
-      "visibility": [
-        "articles"
-      ]
-    },
-    {
       "id": 1774355815177,
       "title": "Cigna Boilermaker",
       "content": "<span data-teams=\"true\">Cigna group number<span style=\"background-color: rgb(229, 241, 143);\"> 3334628</span>.</span><div><span data-teams=\"true\">It is extremely important that these are escalated immediately for payor update!<br><a href=\"https://teams.microsoft.com/l/message/19:040d113871eb4d6bab8685db63548e85@thread.v2/1768203936907?context=%7B%22contextType%22%3A%22chat%22%7D\" target=\"_blank\">Reference</a><br><br>Updated By: JasferBalboa<br>Created By: JasferBalboa</span></div>",
@@ -246,6 +234,20 @@
       ],
       "deletedAt": "3/26/2026, 9:32:08 AM",
       "deletedBy": "Admin_Assistant"
+    },
+    {
+      "id": 1774544447515,
+      "title": "awd",
+      "content": "awd",
+      "createdAt": "3/26/2026, 12:00:47 PM",
+      "createdBy": "Lyka O.",
+      "updatedAt": "3/26/2026, 12:00:47 PM",
+      "updatedBy": "Lyka O.",
+      "visibility": [
+        "articles"
+      ],
+      "deletedAt": "3/26/2026, 2:51:38 PM",
+      "deletedBy": "Jasfer B."
     }
   ]
 }
