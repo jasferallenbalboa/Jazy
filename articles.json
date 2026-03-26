@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": 1774355815177,
+      "title": "Cigna Boilermaker",
+      "content": "Cigna group number 3334628.\n\nIt is extremely important that these are escalated immediately for payor update.\n\nReference: Microsoft Teams message",
+      "createdAt": "3/24/2026, 7:36:55 AM",
+      "createdBy": "Jasfer B.",
+      "updatedAt": "3/26/2026, 3:38:13 PM",
+      "updatedBy": "Lyka O.",
+      "visibility": ["articles"]
+    },
+    {
+      "id": 1773405846576,
+      "title": "ONN Remark Codes",
+      "content": "N864 - This claim is subject to the No Surprises Act provisions that apply to emergency services.\n\nReference: Microsoft Teams message",
+      "createdAt": "3/13/2026, 7:44:06 AM",
+      "createdBy": "Jasfer B.",
+      "updatedAt": "3/26/2026, 3:44:20 PM",
+      "updatedBy": "Jasfer B.",
+      "visibility": ["articles"]
+    },
+    {
+      "id": 1773336577208,
+      "title": "Postal FEP Pacific",
+      "content": "For FEP Pacific customers: update to Blue Shield FEP if the claim has an initial 25 claim number, an R policy, and California state.\n\nReference: Microsoft Teams message",
+      "createdAt": "Mar 12, 2026 12:29 PM",
+      "createdBy": "Jasfer B.",
+      "updatedAt": "3/26/2026, 3:39:47 PM",
+      "updatedBy": "Jasfer B.",
+      "visibility": ["articles"]
+    },
+    {
+      "id": 1773327277822,
+      "title": "TRS / HEALTHSELECT",
+      "content": "TRS / HealthSelect showing as OOS may be processed.\n\nTRS and HealthSelect are fully insured only in the state of Texas.\n\nIf a claim has a TRS or HealthSelect policy number and the state is Oklahoma, it is considered an OOS policy for NSA.\n\nReference: Microsoft Teams message",
+      "createdAt": "Mar 12, 2026 09:54 AM",
+      "createdBy": "Jasfer B.",
+      "updatedAt": "3/26/2026, 3:43:23 PM",
+      "updatedBy": "Jasfer B.",
+      "visibility": ["articles"]
+    },
+    {
+      "id": 1773325130678,
+      "title": "Ambetter and BAYLOR & SCOTT claims",
+      "content": "EOB remark codes surpass the funding type. It is very important to go by how the EOB was processed.\n\nException: Ambetter and Baylor & Scott.\n\nReference: Microsoft Teams message",
+      "createdAt": "Mar 12, 2026 09:18 AM",
+      "createdBy": "Jasfer B.",
+      "updatedAt": "3/26/2026, 3:45:48 PM",
+      "updatedBy": "Jasfer B.",
+      "visibility": ["articles"]
+    },
+    {
+      "id": 1773323657893,
+      "title": "FEP or FEDERAL FEP",
+      "content": "Always make queries with the POC even if instructions exist from the payor mapping team on how to identify an FEP claim.\n\nReference: Microsoft Teams message",
+      "createdAt": "Mar 12, 2026 08:54 AM",
+      "createdBy": "Jasfer B.",
+      "updatedAt": "3/23/2026, 8:22:26 AM",
+      "updatedBy": "Jasfer B.",
+      "visibility": ["articles"]
+    },
+    {
       "id": 1774558069432,
       "title": "123",
       "content": "123",
@@ -8,93 +68,7 @@
       "createdBy": "Jasfer B.",
       "updatedAt": "3/26/2026, 3:47:49 PM",
       "updatedBy": "Jasfer B.",
-      "visibility": [
-        "articles"
-      ]
-    },
-    {
-      "id": 1774355815177,
-      "title": "Cigna Boilermaker",
-      "content": "&lt;span data-teams=\"true\"&gt;Cigna group number&lt;span style=\"background-color: rgb(229, 241, 143);\"&gt; 3334628&lt;/span&gt;.&lt;/span&gt;&lt;div&gt;&lt;span data-teams=\"true\"&gt;It is extremely important that these are escalated immediately for payor update!&lt;br&gt;&lt;br&gt;&lt;a href=\"https://teams.microsoft.com/l/message/19:040d113871eb4d6bab8685db63548e85@thread.v2/1768203936907?context=%7B%22contextType%22%3A%22chat%22%7D\" target=\"_blank\"&gt;Reference&lt;/a&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;",
-      "createdAt": "3/24/2026, 7:36:55 AM",
-      "createdBy": "Jasfer B.",
-      "updatedAt": "3/26/2026, 3:38:13 PM",
-      "visibility": [
-        "articles"
-      ],
-      "updatedBy": "Lyka O."
-    },
-    {
-      "id": 1773405846576,
-      "title": "ONN Remark Codes",
-      "content": "&lt;b&gt;N864 -&amp;nbsp;&lt;/b&gt;This claim is subject to the No Surprises Act provisions that apply to emergency services.&lt;div&gt;&lt;a href=\"https://teams.microsoft.com/l/message/19:040d113871eb4d6bab8685db63548e85@thread.v2/1773405602113?context=%7B%22contextType%22%3A%22chat%22%7D\" target=\"_blank\"&gt;Link&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;",
-      "createdAt": "3/13/2026, 7:44:06 AM",
-      "createdBy": "Jasfer B.",
-      "updatedAt": "3/26/2026, 3:44:20 PM",
-      "visibility": [
-        "articles"
-      ],
-      "updatedBy": "Jasfer B."
-    },
-    {
-      "id": 1773336577208,
-      "title": "Postal FEP Pacific",
-      "content": "For FEP Pacific Customer u&lt;span data-teams=\"true\"&gt;pdate to Blue Shield FEP if it has a initial 25 claim number, R policy, and California state.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span data-teams=\"true\"&gt;Reference: &lt;a href=\"https://teams.microsoft.com/l/message/19:040d113871eb4d6bab8685db63548e85@thread.v2/1773336320971?context=%7B%22contextType%22%3A%22chat%22%7D\" target=\"_blank\"&gt;Here.&nbsp;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;",
-      "visibility": [
-        "articles"
-      ],
-      "createdAt": "Mar 12, 2026 12:29 PM",
-      "createdBy": "Jasfer B.",
-      "updatedAt": "3/26/2026, 3:39:47 PM",
-      "updatedBy": "Jasfer B."
-    },
-    {
-      "id": 1773327277822,
-      "title": "TRS / HEALTHSELECT",
-      "content": "TRS/HEALTHSELECT showing as OOS may we process, TRS and HealthSelect are fully insured only in state of Texas. Example: Claim has TRS/HealthSelect Policy Number and the state is Oklahoma it is an OOS policy for NSA.&lt;br&gt;&lt;br&gt;&lt;a href=\"https://teams.microsoft.com/l/message/19:040d113871eb4d6bab8685db63548e85@thread.v2/1773843906989?context=%7B%22contextType%22%3A%22chat%22%7D\" target=\"_blank\"&gt;Reference&lt;/a&gt;",
-      "visibility": [
-        "articles"
-      ],
-      "createdAt": "Mar 12, 2026 09:54 AM",
-      "createdBy": "Jasfer B.",
-      "updatedAt": "3/26/2026, 3:43:23 PM",
-      "updatedBy": "Jasfer B."
-    },
-    {
-      "id": 1773325130678,
-      "title": "Ambetter and BAYLOR SCOTT claims",
-      "content": "EOB Remark Codes surpasses the funding type; it is very important to go by how the EOB was processed (EXCEPT FOR AMBETTER AND BAYLOR &amp;amp; SCOTT)&lt;br&gt;&lt;br&gt;&lt;a href=\"https://teams.microsoft.com/l/message/19:040d113871eb4d6bab8685db63548e85@thread.v2/1774280496477?context=%7B%22contextType%22%3A%22chat%22%7D\" target=\"_blank\"&gt;Reference&lt;/a&gt;",
-      "visibility": [
-        "articles"
-      ],
-      "createdAt": "Mar 12, 2026 09:18 AM",
-      "createdBy": "Jasfer B.",
-      "updatedAt": "3/26/2026, 3:45:48 PM",
-      "updatedBy": "Jasfer B."
-    },
-    {
-      "id": 1773323657893,
-      "title": "FEP or FDERAL FEP",
-      "content": "Do always make queries with the POC even if we have a instruction with the payor mapping team on how to identify the FEP claim.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;a href=\"https://teams.microsoft.com/l/message/19:040d113871eb4d6bab8685db63548e85@thread.v2/1773153793247?context=%7B%22contextType%22%3A%22chat%22%7D\" target=\"_blank\"&gt;REFERENCE LINK&lt;/a&gt;&lt;/div&gt;",
-      "visibility": [
-        "articles"
-      ],
-      "createdAt": "Mar 12, 2026 08:54 AM",
-      "createdBy": "Jasfer B.",
-      "updatedAt": "3/23/2026, 8:22:26 AM",
-      "updatedBy": "Jasfer B."
-    },
-    {
-      "id": 1774558459875,
-      "title": "123213213213",
-      "content": "12",
-      "createdAt": "3/26/2026, 3:54:19 PM",
-      "createdBy": "Jasfer B.",
-      "updatedAt": "3/26/2026, 3:54:19 PM",
-      "updatedBy": "Jasfer B.",
-      "visibility": [
-        "articles"
-      ]
+      "visibility": ["articles"]
     }
   ],
   "deletedItems": []
