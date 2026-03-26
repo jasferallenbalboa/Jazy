@@ -52,16 +52,6 @@
       "updatedAt": "Mar 12, 2026 09:53 AM"
     },
     {
-      "id": 1773327133765,
-      "title": "SANA BENEFITS - TPA",
-      "content": "SANA BENEFITS - All Policies are Self Funded. Verified through provider chat support - Reference number: 911438/Luis.",
-      "visibility": [
-        "articles"
-      ],
-      "createdAt": "Mar 12, 2026 09:52 AM",
-      "updatedAt": "Mar 12, 2026 09:52 AM"
-    },
-    {
       "id": 1773325130678,
       "title": "Ambetter and BAYLOR SCOTT claims",
       "content": "EOB Remark Codes surpasses the funding type; it is very important to go by how the EOB was processed (EXCEPT FOR AMBETTER AND BAYLOR & SCOTT)",
@@ -105,6 +95,18 @@
       "createdAt": "Mar 12, 2026 09:52 AM",
       "updatedAt": "Mar 12, 2026 09:52 AM",
       "deletedAt": "3/26/2026, 2:54:30 PM",
+      "deletedBy": "Jasfer B."
+    },
+    {
+      "id": 1773327133765,
+      "title": "SANA BENEFITS - TPA",
+      "content": "SANA BENEFITS - All Policies are Self Funded. Verified through provider chat support - Reference number: 911438/Luis.",
+      "visibility": [
+        "articles"
+      ],
+      "createdAt": "Mar 12, 2026 09:52 AM",
+      "updatedAt": "Mar 12, 2026 09:52 AM",
+      "deletedAt": "3/26/2026, 2:54:34 PM",
       "deletedBy": "Jasfer B."
     }
   ]
