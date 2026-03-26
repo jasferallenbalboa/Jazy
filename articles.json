@@ -42,16 +42,6 @@
       "updatedAt": "Mar 12, 2026 09:54 AM"
     },
     {
-      "id": 1773327224964,
-      "title": "TPA - SAVERS",
-      "content": "ALL SAVERS all policies are self-funded",
-      "visibility": [
-        "articles"
-      ],
-      "createdAt": "Mar 12, 2026 09:53 AM",
-      "updatedAt": "Mar 12, 2026 09:53 AM"
-    },
-    {
       "id": 1773325130678,
       "title": "Ambetter and BAYLOR SCOTT claims",
       "content": "EOB Remark Codes surpasses the funding type; it is very important to go by how the EOB was processed (EXCEPT FOR AMBETTER AND BAYLOR & SCOTT)",
@@ -107,6 +97,18 @@
       "createdAt": "Mar 12, 2026 09:52 AM",
       "updatedAt": "Mar 12, 2026 09:52 AM",
       "deletedAt": "3/26/2026, 2:54:34 PM",
+      "deletedBy": "Jasfer B."
+    },
+    {
+      "id": 1773327224964,
+      "title": "TPA - SAVERS",
+      "content": "ALL SAVERS all policies are self-funded",
+      "visibility": [
+        "articles"
+      ],
+      "createdAt": "Mar 12, 2026 09:53 AM",
+      "updatedAt": "Mar 12, 2026 09:53 AM",
+      "deletedAt": "3/26/2026, 2:54:43 PM",
       "deletedBy": "Jasfer B."
     }
   ]
