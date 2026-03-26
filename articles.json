@@ -8,7 +8,9 @@
       "createdBy": "Jasfer B.",
       "updatedAt": "3/26/2026, 3:38:13 PM",
       "updatedBy": "Lyka O.",
-      "visibility": ["articles"]
+      "visibility": [
+        "articles"
+      ]
     },
     {
       "id": 1773405846576,
@@ -18,7 +20,9 @@
       "createdBy": "Jasfer B.",
       "updatedAt": "3/26/2026, 3:44:20 PM",
       "updatedBy": "Jasfer B.",
-      "visibility": ["articles"]
+      "visibility": [
+        "articles"
+      ]
     },
     {
       "id": 1773336577208,
@@ -28,7 +32,9 @@
       "createdBy": "Jasfer B.",
       "updatedAt": "3/26/2026, 3:39:47 PM",
       "updatedBy": "Jasfer B.",
-      "visibility": ["articles"]
+      "visibility": [
+        "articles"
+      ]
     },
     {
       "id": 1773327277822,
@@ -38,7 +44,9 @@
       "createdBy": "Jasfer B.",
       "updatedAt": "3/26/2026, 3:43:23 PM",
       "updatedBy": "Jasfer B.",
-      "visibility": ["articles"]
+      "visibility": [
+        "articles"
+      ]
     },
     {
       "id": 1773325130678,
@@ -48,7 +56,9 @@
       "createdBy": "Jasfer B.",
       "updatedAt": "3/26/2026, 3:45:48 PM",
       "updatedBy": "Jasfer B.",
-      "visibility": ["articles"]
+      "visibility": [
+        "articles"
+      ]
     },
     {
       "id": 1773323657893,
@@ -58,8 +68,12 @@
       "createdBy": "Jasfer B.",
       "updatedAt": "3/23/2026, 8:22:26 AM",
       "updatedBy": "Jasfer B.",
-      "visibility": ["articles"]
-    },
+      "visibility": [
+        "articles"
+      ]
+    }
+  ],
+  "deletedItems": [
     {
       "id": 1774558069432,
       "title": "123",
@@ -68,8 +82,11 @@
       "createdBy": "Jasfer B.",
       "updatedAt": "3/26/2026, 3:47:49 PM",
       "updatedBy": "Jasfer B.",
-      "visibility": ["articles"]
+      "visibility": [
+        "articles"
+      ],
+      "deletedAt": "3/26/2026, 3:58:59 PM",
+      "deletedBy": "Jasfer B."
     }
-  ],
-  "deletedItems": []
+  ]
 }
