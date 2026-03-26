@@ -115,18 +115,6 @@
       ],
       "createdAt": "Mar 12, 2026 08:54 AM",
       "updatedAt": "3/23/2026, 8:22:26 AM"
-    },
-    {
-      "id": 1774535942304,
-      "title": "TEST",
-      "content": "TEST",
-      "createdAt": "3/26/2026, 9:39:02 AM",
-      "createdBy": "Admin_Assistant",
-      "updatedAt": "3/26/2026, 9:39:02 AM",
-      "updatedBy": "Admin_Assistant",
-      "visibility": [
-        "articles"
-      ]
     }
   ],
   "history": [
@@ -154,6 +142,20 @@
         "articles"
       ],
       "deletedAt": "3/26/2026, 9:32:08 AM",
+      "deletedBy": "Admin_Assistant"
+    },
+    {
+      "id": 1774535942304,
+      "title": "TEST",
+      "content": "TEST",
+      "createdAt": "3/26/2026, 9:39:02 AM",
+      "createdBy": "Admin_Assistant",
+      "updatedAt": "3/26/2026, 9:39:02 AM",
+      "updatedBy": "Admin_Assistant",
+      "visibility": [
+        "articles"
+      ],
+      "deletedAt": "3/26/2026, 9:39:44 AM",
       "deletedBy": "Admin_Assistant"
     }
   ]
