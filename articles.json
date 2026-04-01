@@ -71,6 +71,18 @@
       "visibility": [
         "articles"
       ]
+    },
+    {
+      "id": 1775045817310,
+      "title": "PIF Process",
+      "content": "<span data-teams=\"true\"><p>Paid in Full - If the Charge amount matches the Paid Amount + Patient Responsibility</p><p>High Reimbursement - If the Initial Allowed Amount is Higher than the NSA Request Offer</p><p>Below Threshold - If the Charge Amount is below $300</p><p>Below Threshold - If the Difference between the NSA Request Offer and Initial Allowed amount is below $300</p></span>",
+      "createdAt": "4/1/2026, 7:16:57 AM",
+      "createdBy": "Jasfer B.",
+      "updatedAt": "4/1/2026, 7:16:57 AM",
+      "updatedBy": "Jasfer B.",
+      "visibility": [
+        "articles"
+      ]
     }
   ],
   "deletedItems": [
