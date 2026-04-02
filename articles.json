@@ -83,18 +83,6 @@
       "visibility": [
         "articles"
       ]
-    },
-    {
-      "id": 1775064470983,
-      "title": "BCBS KANSAS",
-      "content": "<span data-teams=\"true\"><p>Always review the EOB</p><p>&nbsp;</p><p>BCBS Kansas<br>\n- Review the EOB to ensure the payor is BLUE CROSS &amp; BLUE SHIELD<br>\n- Review the Ins Card/ FEP Insurance<br>\n- Highmark and CareFirst will not go to BCBS Kansas<br>\n- Review HCFA&nbsp;<br>\nForm 1500 will go to BCBS Kansas Professional<br>\nForm UB-04 will go to BCBS Kansas Institutional</p><p>&nbsp;</p><p>BCBS Kansas City (MO) &amp; Missouri<br>\nPayer ID 47171<br>\n- Prefixes: YBC, BN, YBP, GPS</p><p>&nbsp;</p><p>BCBS Missouri<br>\nCheck state if Missouri<br>\nReview the EOB and Ins Card<br>\nCheck the HCFA for the form number<br><br><a href=\"file:///C:/Users/JasferAllenBalboa/Music/BCBS_Kansas_Routing_Decision_Tree%20updated%2003.31.26%20(1).html\">BCBS Kansas/Missouri Routing Decision Tree</a><br><a href=\"https://halomdedge-my.sharepoint.com/:w:/g/personal/brooke_clayton_halomd_com/IQBGUlt9WSnVRLEhOfqtzEmNAdJs3YCqFJgZZEKFA7wi1Zc?e=Q7O6Vb&amp;isSPOFile=1&amp;ovuser=70750cc4-6f21-4c27-bb0e-8b7e66bcb2dd%2Cjasferallen.balboa%40halomd.com&amp;wdOrigin=TEAMS-MAGLEV.null_ns.rwc&amp;wdExp=TEAMS-TREATMENT&amp;wdhostclicktime=1775064010041&amp;web=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjAyMTIxNTEyMyJ9\">Kansas &amp; Missouri.docx</a></p></span>",
-      "createdAt": "4/1/2026, 12:27:50 PM",
-      "createdBy": "Jasfer B.",
-      "updatedAt": "4/1/2026, 12:27:50 PM",
-      "updatedBy": "Jasfer B.",
-      "visibility": [
-        "articles"
-      ]
     }
   ],
   "deletedItems": [
@@ -125,6 +113,20 @@
       ],
       "deletedAt": "3/26/2026, 3:58:59 PM",
       "deletedBy": "Jasfer B."
+    },
+    {
+      "id": 1775064470983,
+      "title": "BCBS KANSAS",
+      "content": "<span data-teams=\"true\"><p>Always review the EOB</p><p>&nbsp;</p><p>BCBS Kansas<br>\n- Review the EOB to ensure the payor is BLUE CROSS &amp; BLUE SHIELD<br>\n- Review the Ins Card/ FEP Insurance<br>\n- Highmark and CareFirst will not go to BCBS Kansas<br>\n- Review HCFA&nbsp;<br>\nForm 1500 will go to BCBS Kansas Professional<br>\nForm UB-04 will go to BCBS Kansas Institutional</p><p>&nbsp;</p><p>BCBS Kansas City (MO) &amp; Missouri<br>\nPayer ID 47171<br>\n- Prefixes: YBC, BN, YBP, GPS</p><p>&nbsp;</p><p>BCBS Missouri<br>\nCheck state if Missouri<br>\nReview the EOB and Ins Card<br>\nCheck the HCFA for the form number<br><br><a href=\"file:///C:/Users/JasferAllenBalboa/Music/BCBS_Kansas_Routing_Decision_Tree%20updated%2003.31.26%20(1).html\">BCBS Kansas/Missouri Routing Decision Tree</a><br><a href=\"https://halomdedge-my.sharepoint.com/:w:/g/personal/brooke_clayton_halomd_com/IQBGUlt9WSnVRLEhOfqtzEmNAdJs3YCqFJgZZEKFA7wi1Zc?e=Q7O6Vb&amp;isSPOFile=1&amp;ovuser=70750cc4-6f21-4c27-bb0e-8b7e66bcb2dd%2Cjasferallen.balboa%40halomd.com&amp;wdOrigin=TEAMS-MAGLEV.null_ns.rwc&amp;wdExp=TEAMS-TREATMENT&amp;wdhostclicktime=1775064010041&amp;web=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjAyMTIxNTEyMyJ9\">Kansas &amp; Missouri.docx</a></p></span>",
+      "createdAt": "4/1/2026, 12:27:50 PM",
+      "createdBy": "Jasfer B.",
+      "updatedAt": "4/1/2026, 12:27:50 PM",
+      "updatedBy": "Jasfer B.",
+      "visibility": [
+        "articles"
+      ],
+      "deletedAt": "4/2/2026, 8:42:58 AM",
+      "deletedBy": "Pamela D."
     }
   ]
 }
