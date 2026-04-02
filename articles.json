@@ -108,19 +108,6 @@
       "visibility": [
         "articles"
       ]
-    },
-    {
-      "id": 1775157185893,
-      "title": "asdfdf",
-      "content": "<a href=\"https://teams.cloud.microsoft/l/message/19:040d113871eb4d6bab8685db63548e85@thread.v2/1775144459948?context=%7B%22contextType%22%3A%22chat%22%7D\" target=\"_blank\">Ref Link:&nbsp;&nbsp;</a>",
-      "createdAt": "4/2/2026, 2:13:05 PM",
-      "createdBy": "Pamela D.",
-      "updatedAt": "4/2/2026, 2:13:05 PM",
-      "updatedBy": "Pamela D.",
-      "visibility": [
-        "articles",
-        "announcements"
-      ]
     }
   ],
   "deletedItems": [
@@ -180,6 +167,21 @@
       ],
       "deletedAt": "3/26/2026, 3:58:59 PM",
       "deletedBy": "Jasfer B."
+    },
+    {
+      "id": 1775157185893,
+      "title": "asdfdf",
+      "content": "<a href=\"https://teams.cloud.microsoft/l/message/19:040d113871eb4d6bab8685db63548e85@thread.v2/1775144459948?context=%7B%22contextType%22%3A%22chat%22%7D\" target=\"_blank\">Ref Link:&nbsp;&nbsp;</a>",
+      "createdAt": "4/2/2026, 2:13:05 PM",
+      "createdBy": "Pamela D.",
+      "updatedAt": "4/2/2026, 2:13:05 PM",
+      "updatedBy": "Pamela D.",
+      "visibility": [
+        "articles",
+        "announcements"
+      ],
+      "deletedAt": "4/2/2026, 2:13:38 PM",
+      "deletedBy": "Pamela D."
     }
   ]
 }
