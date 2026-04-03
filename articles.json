@@ -107,6 +107,18 @@
       "visibility": [
         "articles"
       ]
+    },
+    {
+      "id": 1775226714175,
+      "title": "April 3, 2026 9:00 AM",
+      "content": "<p>&nbsp;</p><p>1. Reviewing EOB Date</p><p>Prioritize reviewing the EOB to check the EOB date if the claim is truly TIMING. If the Production date is Timing and the Check Date is not. Use the Check date to send the Negotiations. If both date is Timing, Don't change the EOB date and make sure to add case notes to verify the Timing date before closing the claim</p><p>&nbsp;</p><p>2. Claims beyond 5 business working days</p><p>If the claims still has no EOB available and you don't have access to payor portals escalate it to Tania.</p><p>&nbsp;</p><p>3. Due today and Pre Due date claims</p><p>Due Today and Pre Due needs to Review ASAP to escalate all problem especially for those claims that needs an Updated EOB or requesting HCFA</p><p>&nbsp;</p><p>4. IES with special Characters</p><p>Escalate all claims from Due Today that has Special Character in the Claim. If the Claim is not Due Today, add a case note stating that the claim is already Requested for Correction of the claim and Continue to Pend until the claim is updated, Sample note: Special characters in the EHR number field prevented submission. The claim was escalated to the Data Team / Technical Error-Claim is now timing</p><p>&nbsp;</p><p>&nbsp;</p>",
+      "createdAt": "4/3/2026, 9:31:54 AM",
+      "createdBy": "Jasfer B.",
+      "updatedAt": "4/3/2026, 9:31:54 AM",
+      "updatedBy": "Jasfer B.",
+      "visibility": [
+        "announcements"
+      ]
     }
   ],
   "deletedItems": [
